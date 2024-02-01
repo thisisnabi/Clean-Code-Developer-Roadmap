@@ -9,6 +9,6 @@ This repository is a comprehensive guide for developers aspiring to elevate thei
 If you find this `Agile Developer Roadmap` valuable and believe in the importance of clean, maintainable code, consider showing your support by giving this repository a star! ⭐️
 
 ## Roadmap
-![Agile Developer Roadmap](https://github.com/thisisnabi/Clean-Code-Developer-Roadmap/blob/main/assets/Clean-Code-Developer-Roadmap.en.svg)
+![Agile Developer Roadmap](https://github.com/thisisnabi/Agile-Developer-Roadmap/blob/main/assets/Agile-Developer-Roadmap.en.svg)
 
 
